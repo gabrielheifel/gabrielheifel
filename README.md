@@ -11,3 +11,8 @@ Desenvolvedor frontend, aspirante a Fullstack.
   - HTML, CSS e JavaScript
   - ReactJS
   - NodeJS
+
+### 🚀 Projetos: 
+
+- [Portfolio](https://github.com/gabrielheifel/portfolio): Projeto básico em html e css;
+- [Formulario](https://github.com/gabrielheifel/formulario): Formuario em React com autocomplete e máscara;
