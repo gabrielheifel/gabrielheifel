@@ -10,7 +10,7 @@ Desenvolvedor frontend, aspirante a Fullstack.
 
   - HTML, CSS e JavaScript
   - ReactJS
-  - NodeJS
+  - Cursando Ciência da Computação (Bacharelado)
 
 ### 🚀 Projetos: 
 
