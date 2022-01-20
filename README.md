@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=FFFFFF&logo=instagram&logoColor=000000&link=https://www.instagram.com/gabrielheifel/)](https://www.instagram.com/gabrielheifel/)
 
 ### Sobre mim:
-Desenvolvedor frontend, aspirante a Fullstack.
+Desenvolvedor frontend.
 
 ### :notebook_with_decorative_cover: Estudando:
 
@@ -14,5 +14,6 @@ Desenvolvedor frontend, aspirante a Fullstack.
 
 ### 🚀 Projetos: 
 
+- [Pokedex](https://github.com/gabrielheifel/Pokedex): Pokedex em React utilizando a api PokeAPI;
 - [Portfolio](https://github.com/gabrielheifel/portfolio): Projeto básico em HTML e CSS;
 - [Formulario](https://github.com/gabrielheifel/formulario): Formulário em React com autocomplete e máscara;
