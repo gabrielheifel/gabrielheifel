@@ -14,6 +14,6 @@ Desenvolvedor frontend.
 
 ### 🚀 Projetos: 
 
+- [EasyBook](https://github.com/gabrielheifel/EasyBook): Ecommerce Livraria em React;
 - [Pokedex](https://github.com/gabrielheifel/Pokedex): Pokedex em React utilizando a api PokeAPI;
-- [Portfolio](https://github.com/gabrielheifel/portfolio): Projeto básico em HTML e CSS;
 - [Formulario](https://github.com/gabrielheifel/formulario): Formulário em React com autocomplete e máscara;
