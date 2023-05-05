@@ -4,12 +4,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=FFFFFF&logo=instagram&logoColor=000000&link=https://www.instagram.com/gabrielheifel/)](https://www.instagram.com/gabrielheifel/)
 
 ### Sobre mim:
-Desenvolvedor frontend.
+Desenvolvedor Fullstack.
 
 ### :notebook_with_decorative_cover: Estudando:
 
-  - HTML, CSS e JavaScript
-  - ReactJS
+  - NestJS, TypeORM, Graphql, Postgres
+  - ReactJS, NextJS
+  - TypeScript
   - Cursando Ciência da Computação (Bacharelado)
 
 ### 🚀 Projetos: 
