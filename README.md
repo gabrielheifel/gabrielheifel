@@ -15,6 +15,8 @@ Desenvolvedor Fullstack.
 
 ### 🚀 Projetos: 
 
+- [Certificate Reader Sistem](https://github.com/gabrielheifel/certificate-reader): Sistema de Login Multiusuário (in progress)
+- [Certificate Reader Api](https://github.com/gabrielheifel/certificate-reader-backend) Api capaz de fazer Leitura de Certificados Utilizando IA (in progress)
 - [EasyBook](https://github.com/gabrielheifel/EasyBook): Ecommerce Livraria em React;
 - [Pokedex](https://github.com/gabrielheifel/Pokedex): Pokedex em React utilizando a api PokeAPI;
 - [Formulario](https://github.com/gabrielheifel/formulario): Formulário em React com autocomplete e máscara;
