@@ -8,8 +8,9 @@ Desenvolvedor Fullstack.
 
 ### :notebook_with_decorative_cover: Estudando:
 
-  - NestJS, TypeORM, Graphql, Postgres
-  - ReactJS, NextJS
+  - PLN (Processamento de linguagem natural) e NER (Reconhecimento de Entidade Nomeada)
+  - ReactJS, NextJS, Prisma
+  - OCR (Reconhecimento ótico de caracteres)
   - TypeScript
   - Cursando Ciência da Computação (Bacharelado)
 
